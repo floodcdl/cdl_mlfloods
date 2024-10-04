@@ -1,4 +1,4 @@
-library(terra)
+# library(terra)
 library(tidyverse)
 library(rpart)
 library(rpart.plot)
