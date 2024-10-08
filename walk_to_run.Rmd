@@ -2,7 +2,9 @@
 title: "walk_to_run"
 author: "jeeno"
 date: "2024-10-08"
-output: html_document
+output: 
+  html_document: 
+    keep_md: true
 ---
 
 ```{r setup, include=FALSE}
